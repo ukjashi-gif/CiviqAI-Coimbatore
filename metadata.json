@@ -1,0 +1,10 @@
+{
+  "name": "CiviqAI Coimbatore",
+  "description": "Coimbatore City Corporation Emergency Dispatch, Field Operations & Task Management Dashboard featuring GPS-based real-time incident mapping, offline access, and Gemini-powered AI decision intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
