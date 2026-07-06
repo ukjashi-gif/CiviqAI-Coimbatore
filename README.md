@@ -114,18 +114,6 @@ This project was built as a Smart City emergency management solution to demonstr
 
 ---
 
-# 📷 Project Preview
-
-| Dashboard | Dispatch Form |
-|------------|---------------|
-| ![](screenshots/dashboard.png) | ![](screenshots/form.png) |
-
-| Analytics | Report |
-|-----------|--------|
-| ![](screenshots/analytics.png) | ![](screenshots/report.png) |
-
----
-
 # 🚀 Getting Started
 
 ## Clone Repository
