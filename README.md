@@ -204,9 +204,9 @@ src/
 
 Computer Science Engineering Student
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/jashinthan-udayakumar-4ba459318/
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/ukjashi-gif
 
 ---
 
